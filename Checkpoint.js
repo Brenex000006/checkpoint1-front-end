@@ -1,4 +1,6 @@
-
+//Aula 11 - 28/06/2021
+// checkpoint.js
+// Checkpoint 1 - Microondas
 
 function preparo (comida, tempo){
 
