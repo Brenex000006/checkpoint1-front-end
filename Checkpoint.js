@@ -1,7 +1,7 @@
 //Aula 11 - 28/06/2021
 // checkpoint.js
 // Checkpoint 1 - Microondas
-
+//Projeto feito em grupo durante a aula.
 function preparo (comida, tempo){
 
 
