@@ -1,7 +1,7 @@
 //Aula 11 - 28/06/2021
 // checkpoint.js
 // Checkpoint 1 - Microondas
-
+//Primeira tentaiva sozinho.
 let menu = "Feijão"
 
 switch(menu) {
